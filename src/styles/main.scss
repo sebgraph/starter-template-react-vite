@@ -1,5 +1,5 @@
-$clr: rgb(134, 188, 243);
-
-h1{
-    color: $clr;
-}
+@use "base";
+@use "components";
+@use "layout";
+@use "utilities";
+@use "vendor";
